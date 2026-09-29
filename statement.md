@@ -1,18 +1,16 @@
-Problem Statement
+# Problem Statement
 
-Project Title
-
+## Project Title
 Mini Hospital Management System
 
-Problem
-
+## Problem
 A hospital has to deal with information about many patients. Even for basic activities, patient details have to be entered, found, and updated when required.
 
 For this project, I wanted to make a simple program that can handle some of these basic tasks. The Mini Hospital Management System allows a user to add patient details, search for patients, display records, assign doctors, and update consultation status.
 
 The main purpose of making this project is also to use the Python concepts taught in class in one complete program.
 
-Scope of the Project
+## Scope of the Project
 
 This project covers basic patient and consultation record management.
 
@@ -30,7 +28,7 @@ Updating consultation status
 
 The project is a basic academic project. It is not intended to be used as a complete hospital management system.
 
-Target Users
+## Target Users
 
 The project can be useful for:
 
@@ -42,7 +40,7 @@ Students who want to understand how a menu-based program works
 
 Academic demonstrations of a simple record management system
 
-Main Features
+## Main Features
 
 1. Patient Management
 The user can enter the details of a new patient and add the patient to the records.
@@ -55,7 +53,7 @@ The user can assign a doctor to a selected patient.
 5. Consultation Status
 The consultation status of a patient can be updated when the consultation is completed or needs to be changed.
 
-Basic Working of the Program
+## Basic Working of the Program
 
 The program starts by showing a main menu. The user selects an option and the corresponding function is performed.
 
@@ -81,7 +79,7 @@ Start
   |
   Return to Main Menu
 
-Objective
+## Objective
 -The main objective of this project is to create a small and understandable hospital record system using Python.
 -Through this project, I wanted to practice:
 -Writing functions
@@ -93,7 +91,7 @@ Objective
 -Handling basic invalid input
 -Building a complete menu-based Python program
 
-Project Limitations
+## Project Limitations
 
 The current project is kept simple because it is based on the Python concepts covered in the course so far.
 
