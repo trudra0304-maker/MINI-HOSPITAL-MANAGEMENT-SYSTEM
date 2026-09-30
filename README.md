@@ -70,17 +70,13 @@ Open the terminal inside the project folder and use:
 The main menu will then appear.
 
 How to Use It
-
 After running the program, select an option from the menu.
-
 For example:
-
-Select Add Patient and enter the required details.
-Use Search Patient to find a particular patient.
-Use Display Patients to see the stored records.
-Use Assign Doctor to assign a doctor.
-Update the consultation status when needed.
-
+- Select Add Patient and enter the required details.
+- Use Search Patient to find a particular patient.
+- Use Display Patients to see the stored records.
+- Use Assign Doctor to assign a doctor.
+- Update the consultation status when needed.
 Select Exit when finished.
 
 ## What I Learned
@@ -92,7 +88,6 @@ The project helped me connect the Python concepts from class with a practical ex
 ## Possible Improvements
 
 If I continue working on this project, I can add features such as:
-
 - Saving patient records permanently
 - Appointment management
 - More doctor information
