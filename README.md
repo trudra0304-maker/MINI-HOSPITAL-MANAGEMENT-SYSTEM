@@ -47,16 +47,14 @@ I have used the basic concepts that I have learned in Python so far, including:
 ## Files in the Project
 
 Mini-Hospital-Management-System/
-│
-├── main.py
-├── patient.py
-├── search.py
-├── doctor.py
-├── consultation.py
-├── display.py
-├── statement.md
-└── README.md
-
+- main.py
+- patient.py
+- search.py
+- doctor.py
+- consultation.py
+- display.py
+- statement.md
+- README.md
 The different Python files are used to keep the program parts separate instead of putting everything into one file.
 
 ## How to Run the Project
@@ -85,38 +83,6 @@ Update the consultation status when needed.
 
 Select Exit when finished.
 
-## Testing
-
-I tested the main options of the program by entering different types of inputs and checking the output.
-
-Some basic tests are:
-
-Test
-
-Expected Result
-
-Add a patient
-Patient record is added
-
-Search an existing ID
-Patient details are displayed
-
-Search an ID that does not exist
-Patient not found message is shown
-
-Display patients
-Added patient records are displayed
-
-Assign a doctor
-Doctor is assigned to the patient
-
-Update consultation status
-Status is changed
-
-Exit the program
-
-Program closes
-
 ## What I Learned
 
 While making this project, I got practice in dividing a program into smaller functions and modules. I also understood better how lists and dictionaries can be used to keep related information together.
@@ -127,17 +93,12 @@ The project helped me connect the Python concepts from class with a practical ex
 
 If I continue working on this project, I can add features such as:
 
-Saving patient records permanently
-
-Appointment management
-
-More doctor information
-
-Prescription details
-
-Hospital billing
-
-A graphical interface
+- Saving patient records permanently
+- Appointment management
+- More doctor information
+- Prescription details
+- Hospital billing
+- A graphical interface
 
 ## Project Information
 
