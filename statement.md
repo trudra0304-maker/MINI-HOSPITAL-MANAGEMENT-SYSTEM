@@ -16,15 +16,15 @@ This project covers basic patient and consultation record management.
 
 The current version includes:
 
-Adding patient details
+- Adding patient details
 
-Searching for a patient
+- Searching for a patient
 
-Displaying patient records
+- Displaying patient records
 
-Assigning a doctor
+- Assigning a doctor
 
-Updating consultation status
+- Updating consultation status
 
 The project is a basic academic project. It is not intended to be used as a complete hospital management system.
 
@@ -80,16 +80,16 @@ Start
   Return to Main Menu
 
 ## Objective
--The main objective of this project is to create a small and understandable hospital record system using Python.
--Through this project, I wanted to practice:
--Writing functions
--Using arguments
--Working with lists and dictionaries
--Using loops and conditional statements
--Dividing a program into modules
--Taking input from the user
--Handling basic invalid input
--Building a complete menu-based Python program
+- The main objective of this project is to create a small and understandable hospital record system using Python.
+- Through this project, I wanted to practice:
+- Writing functions
+- Using arguments
+- Working with lists and dictionaries
+- Using loops and conditional statements
+- Dividing a program into modules
+- Taking input from the user
+- Handling basic invalid input
+- Building a complete menu-based Python program
 
 ## Project Limitations
 
