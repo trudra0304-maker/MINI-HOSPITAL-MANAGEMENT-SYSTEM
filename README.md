@@ -15,41 +15,34 @@ Display all patient records
 Assign a doctor to a patient
 Update the consultation status
 
-Add Patient
+### Add Patient
 The user can enter the details of a patient and add them to the current records.
 
-Search Patient
+### Search Patient
 A patient can be searched using the patient ID. If the ID is available, the patient's information is shown.
 
-Display Patients
+### Display Patients
 This option displays the patients that have been added to the system.
 
-Assign Doctor
+### Assign Doctor
 A doctor can be assigned to a particular patient.
 
-Consultation Status
+### Consultation Status
 The consultation status of a patient can be changed when required.
 
 ## Python Concepts Used
 I have used the basic concepts that I have learned in Python so far, including:
 
-Variables and data types
-if, elif and else
-
-for and while loops
-break and continue
-
-Functions and arguments
-
-Lists
-
-Dictionaries
-
-Modules
-
-Basic input and output
-
-Basic validation and error handling
+- Variables and data types
+- if, elif and else
+- for and while loops
+- break and continue
+- Functions and arguments
+- Lists
+- Dictionaries
+- Modules
+- Basic input and output
+- Basic validation and error handling
 
 ## Files in the Project
 
@@ -74,8 +67,7 @@ Make sure Python 3 is installed on the computer.
 Open the project folder in VS Code or any Python editor.
 3. Run the Program
 Open the terminal inside the project folder and use:
-
-python main.py
+```python main.py```
 
 The main menu will then appear.
 
