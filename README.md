@@ -97,7 +97,7 @@ If I continue working on this project, I can add features such as:
 
 ## Project Information
 
-Course: Python Programming
-Project: Mini Hospital Management System
-Platform: VITyarthi - Build Your Own Project
-Program: B.Tech CSE
+- **Course:** Python Programming
+- **Project:** Mini Hospital Management System
+- **Platform:** VITyarthi - Build Your Own Project
+- **Program:** B.Tech CSE
